@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.398bd106.chunk.css",
-    "main.js": "/static/js/main.9cff0b69.chunk.js",
-    "main.js.map": "/static/js/main.9cff0b69.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.dc8b1877.js",
-    "runtime-main.js.map": "/static/js/runtime-main.dc8b1877.js.map",
-    "static/js/2.365c22b0.chunk.js": "/static/js/2.365c22b0.chunk.js",
-    "static/js/2.365c22b0.chunk.js.map": "/static/js/2.365c22b0.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b7a17e9f6afdd8dd4ff6050dcf78bfd8.js": "/precache-manifest.b7a17e9f6afdd8dd4ff6050dcf78bfd8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.398bd106.chunk.css.map": "/static/css/main.398bd106.chunk.css.map",
-    "static/js/2.365c22b0.chunk.js.LICENSE": "/static/js/2.365c22b0.chunk.js.LICENSE"
+    "main.css": "/nyuber/static/css/main.398bd106.chunk.css",
+    "main.js": "/nyuber/static/js/main.00832069.chunk.js",
+    "main.js.map": "/nyuber/static/js/main.00832069.chunk.js.map",
+    "runtime-main.js": "/nyuber/static/js/runtime-main.69df906a.js",
+    "runtime-main.js.map": "/nyuber/static/js/runtime-main.69df906a.js.map",
+    "static/js/2.365c22b0.chunk.js": "/nyuber/static/js/2.365c22b0.chunk.js",
+    "static/js/2.365c22b0.chunk.js.map": "/nyuber/static/js/2.365c22b0.chunk.js.map",
+    "index.html": "/nyuber/index.html",
+    "precache-manifest.42347333f5a16d015183110260ea8b75.js": "/nyuber/precache-manifest.42347333f5a16d015183110260ea8b75.js",
+    "service-worker.js": "/nyuber/service-worker.js",
+    "static/css/main.398bd106.chunk.css.map": "/nyuber/static/css/main.398bd106.chunk.css.map",
+    "static/js/2.365c22b0.chunk.js.LICENSE": "/nyuber/static/js/2.365c22b0.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc8b1877.js",
+    "static/js/runtime-main.69df906a.js",
     "static/js/2.365c22b0.chunk.js",
     "static/css/main.398bd106.chunk.css",
-    "static/js/main.9cff0b69.chunk.js"
+    "static/js/main.00832069.chunk.js"
   ]
 }
